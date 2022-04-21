@@ -1,0 +1,18 @@
+.menubar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1c2b35;
+  padding: 10px 80px;
+  align-items: center;
+}
+.logo {
+  color: white;
+}
+.link a {
+  text-decoration: none;
+  margin-left: 30px;
+  color: white;
+}
+.link :hover {
+  color: rgb(245, 176, 49);
+}

@@ -1,0 +1,9 @@
+.interface-part {
+  display: grid;
+  grid-template-columns: 4.5fr 1.3fr;
+  margin: 40px 80px 0px 80px;
+}
+.product-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
